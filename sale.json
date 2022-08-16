@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2022-08-12",
+    "product": "Pepsi",
+    "amount": 2,
+    "buyer": "John"
+  },
+  {
+    "date": "2022-08-13",
+    "product": "Pepsi",
+    "amount": 1,
+    "buyer": "John"
+  },
+  {
+    "date": "2022-08-13",
+    "product": "Pepsi",
+    "amount": 1,
+    "buyer": "Jack"
+  }
+]
