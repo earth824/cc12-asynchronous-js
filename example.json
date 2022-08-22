@@ -1,0 +1,12 @@
+{
+  "firstName": "John",
+  "age": 30,
+  "isMarried": true,
+  "car": null,
+  "friends": ["Ball", "Yun", "Dream"],
+  "address": {
+    "line": "123/45 Meesuk Condominum Floor 5.",
+    "road": "Phetchakasem",
+    "province": "Phetchaburi"
+  }
+}

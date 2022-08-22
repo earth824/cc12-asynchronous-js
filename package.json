@@ -1,0 +1,23 @@
+{
+  "name": "asynchronous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earth824/cc12-asynchronous-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earth824/cc12-asynchronous-js/issues"
+  },
+  "homepage": "https://github.com/earth824/cc12-asynchronous-js#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
